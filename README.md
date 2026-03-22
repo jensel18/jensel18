@@ -20,7 +20,7 @@ My expertise includes developing user-focused dashboards, automating repetitive 
 When I'm not working with data, I enjoy playing video games, going out with my family and enjoying nature. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website]((https://jensel18.github.io/))
+### [🏆 Check Out My Full Portfolio Website](https://jensel18.github.io/)
       
 ## 🔭 What I'm Currently Working On 
  
